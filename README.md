@@ -17,7 +17,7 @@
   ### Meu LinkedIn!
  
 <div> 
-    <a href="https://www.linkedin.com/in/ren%C3%AA-oliveira-969a08a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/rene-oliveira19" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake gif](https://github.com/ReneOliveira18/ReneOliveira18/blob/output/github-contribution-grid-snake.svg)
 
